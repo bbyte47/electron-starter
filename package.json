@@ -8,14 +8,13 @@
     "watch": "nodemon --exec electron .",
     "reset": "git reset --hard"
   },
-  "repository": "https://github.com/stackacademytv/master-electron",
+  "repository": "https://github.com/bbyte47/electron-starter",
   "keywords": [
     "Electron",
     "Master Electron",
     "demo"
   ],
-  "author": "GitHub, Stackacademytv",
-  "license": "CC0-1.0",
+  
   "devDependencies": {
     "electron": "^9.0.0",
     "nodemon": "^2.0.0"
